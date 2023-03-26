@@ -13,3 +13,8 @@ entrada3 = [10,15,14,5]
 entrada4 = [9,8,7,6]
 
 elementos = []
+
+elementos.append(entrada1)
+elementos.append(entrada2)
+elementos.append(entrada3)
+elementos.append(entrada4)
