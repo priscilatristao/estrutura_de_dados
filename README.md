@@ -31,23 +31,22 @@ elementos = [[0,1,2,3],[11,12,13,4],[10,15,14,5],[9,8,7,6],]
 CÓDIGO
 
  - 1ª Forma:
-Foram criadas 4(quatro) variáveis, cada uma recebendo uma lista contendo 4(quatro) números dispostos aleatoriamente, e uma variável que recebe uma lista vazia. Logo abaixo foi usado o método .append, para adicionar os elementos de cada lista na lista vazia.
+O código começa com uma variável que recebe uma matriz. Dentro há 4(quatro) listas, cada uma contendo 4(quatro) números dispostos aleatoriamente.
 
-![image](https://user-images.githubusercontent.com/125207561/227806621-d0e9d99e-de2e-4bfd-b3da-78b936bf8d13.png)
+![image](https://user-images.githubusercontent.com/125207561/227814356-4778a3b0-212e-405d-9dc2-2f7afbb329f5.png)
 
 
-Para organizar todos os elementos em ordem crescente foi utilizada a função sorted(), especificando a posição(índice) de cada lista dentro da matriz. E em seguida é dado o print da variável que recebe estas informações, como mostra a imagem abaixo.
+Em seguida, 4(quatro) variáveis são criadas, cada uma recebendo um índice diferente disposto na matriz elementos, representando as listas dentro dela. E assim, é dado o print da soma das variáveis que recebe estas informações, utilizando a função sorted para organizar todos os elementos em ordem crescente, como mostra a imagem abaixo.
 
-![image](https://user-images.githubusercontent.com/125207561/227806633-83240b66-b127-4c6e-b3b1-435ffabd81a9.png)
+![image](https://user-images.githubusercontent.com/125207561/227814376-8bd9ec36-ba7b-4961-b1d2-eca958ffaaca.png)
 
 -----------------------
 
 
  - 2ª Forma:
-Nesta outra forma em que o código foi feito, o início permanece o mesmo. A mudança, no entanto, começa na linha após o uso do append, onde ao invés de 1(uma) variável para receber as informações organizadas, 4(quatro) variáveis são criadas, cada uma recebendo um índice diferente disposto na lista elementos, que representam as listas iniciais. E para finalizar, é usado o print com a função sorted somando as quatro variáveis.
+Nesta outra forma em que o código foi feito, o início permanece o mesmo. A mudança, no entanto, começa após a matriz, onde ao invés de criar 4(quatro) variáveis para receber uma lista cada, é apenas criada 1(uma) variável que recebe a somatória dos índices da matriz utilizando a função sorted para colocar em ordem crescente. Finalizando com um print da variável.
 
-![image](https://user-images.githubusercontent.com/125207561/227806657-3b666706-885c-4b0f-ba1e-28c75ffe8c69.png)
-
+![image](https://user-images.githubusercontent.com/125207561/227814322-f1df34d0-884a-46dc-904a-a49307552ec0.png)
 
 -------------------------
 
