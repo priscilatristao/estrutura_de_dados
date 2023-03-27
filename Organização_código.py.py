@@ -12,3 +12,12 @@ elementos = [[0,1,2,3],
              [11,12,13,4],
              [10,15,14,5],
              [9,8,7,6]]
+
+e1 = elementos[0]
+e2 = elementos[1]
+e3 = elementos[2]
+e4 = elementos[3]
+
+print(sorted(e1 + e2 + e3 + e4))
+
+
