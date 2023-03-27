@@ -59,8 +59,14 @@ São 4 entradas de 4 elementos cada, logo, 4*4=16, a notação será O(16log16).
 16log16 = 16 * 4 = 64.
 Resultado final da notação O(64).
 
+Ferramenta utilizada para a pesquisa sobre a notação:
 
+https://www.freecodecamp.org/portuguese/news/o-que-e-a-notacao-big-o-complexidade-de-tempo-e-de-espaco/
 
+Neste artigo, nas primeiras colocações é feita um exemplo onde o mesmo utiliza o método sort, porém diferente do nosso projeto, no codepen foi utilizado uma quantidade fixa de elementos (de 1 a 8) assim tornando a notação O(n²).
 
+Neste artigo também é classificado cada notação, segue uma interesante imagem tirada do mesmo.
 
+![image](https://user-images.githubusercontent.com/82628852/228040972-a34cbf99-d8a7-40a6-8bd7-9e722a8e65e2.png)
 
+Nesta imagem é possível classificar as notações e seu nível de complexidade.
