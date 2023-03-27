@@ -33,20 +33,25 @@ CÓDIGO
  - 1ª Forma:
 O código começa com uma variável que recebe uma matriz. Dentro há 4(quatro) listas, cada uma contendo 4(quatro) números dispostos aleatoriamente.
 
-![image](https://user-images.githubusercontent.com/125207561/227814356-4778a3b0-212e-405d-9dc2-2f7afbb329f5.png)
+![image](https://user-images.githubusercontent.com/125207561/228072963-85cc22d0-555f-4b97-aca0-d5f52805a792.png)
 
 
-Em seguida, 4(quatro) variáveis são criadas, cada uma recebendo um índice diferente disposto na matriz elementos, representando as listas dentro dela. E assim, é dado o print da soma das variáveis que recebe estas informações, utilizando a função sorted para organizar todos os elementos em ordem crescente, como mostra a imagem abaixo.
+Em seguida, 4(quatro) variáveis são criadas, cada uma recebendo um índice diferente disposto na matriz elementos, representando as listas dentro dela. Depois é criado uma nova variável que recebe a soma das variáveis anteriores, utilizando a função sorted para organizar todos os elementos em ordem crescente. E assim, é dado o print da nova variável, como mostra a imagem abaixo.
 
-![image](https://user-images.githubusercontent.com/125207561/227814376-8bd9ec36-ba7b-4961-b1d2-eca958ffaaca.png)
+![image](https://user-images.githubusercontent.com/125207561/228073004-ed508dd8-df82-43aa-8b26-2d291937d5db.png)
+
+
+E para criar a ordem decrescente,  a mesma variável foi reutilizada porém agora junta a função reverse(), que inverte a ordem de uma lista. Logo em seguida é dado o print.
+
+![image](https://user-images.githubusercontent.com/125207561/228073055-db02ee5e-8541-4163-acd8-68244fc31a4d.png)
 
 -----------------------
 
 
  - 2ª Forma:
-Nesta outra forma em que o código foi feito, o início permanece o mesmo. A mudança, no entanto, começa após a matriz, onde ao invés de criar 4(quatro) variáveis para receber uma lista cada, é apenas criada 1(uma) variável que recebe a somatória dos índices da matriz utilizando a função sorted para colocar em ordem crescente. Finalizando com um print da variável.
+Nesta outra forma em que o código foi feito, o início permanece o mesmo. A mudança, no entanto, começa após a matriz, onde ao invés de criar 4(quatro) variáveis para receber uma lista cada, é apenas criada 1(uma) variável que recebe a somatória dos índices da matriz utilizando a função sorted para colocar em ordem crescente. Finalizando com um print da variável. E para inverte a ordem foi feito o mesmo processo que o código anterior.
 
-![image](https://user-images.githubusercontent.com/125207561/227814322-f1df34d0-884a-46dc-904a-a49307552ec0.png)
+![image](https://user-images.githubusercontent.com/125207561/228073103-205fde32-a28a-4ba5-8f7e-731ae481e5ef.png)
 
 -------------------------
 
