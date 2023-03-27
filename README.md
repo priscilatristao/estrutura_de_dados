@@ -64,6 +64,8 @@ São 4 entradas de 4 elementos cada, logo, 4*4=16, a notação será O(16²).
 16² = 16 * 16 = 64.
 Resultado final da notação O(256).
 
+![Figure_1](https://user-images.githubusercontent.com/114686103/228089549-b125a594-0eb6-4a56-a10b-be753516bfdb.png)
+
 Ferramenta utilizada para a pesquisa sobre a notação:
 
 https://www.freecodecamp.org/portuguese/news/o-que-e-a-notacao-big-o-complexidade-de-tempo-e-de-espaco/
