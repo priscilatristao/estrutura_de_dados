@@ -67,6 +67,6 @@ Neste artigo, nas primeiras colocações é feita um exemplo onde o mesmo utiliz
 
 Neste artigo também é classificado cada notação, segue uma interesante imagem tirada do mesmo.
 
-![image](https://user-images.githubusercontent.com/82628852/228040972-a34cbf99-d8a7-40a6-8bd7-9e722a8e65e2.png)
+![BigO'cheatsheet](https://user-images.githubusercontent.com/82628852/228044983-aa7f05ee-9306-4be8-ba8e-75884eaf79bd.png)
 
 Nesta imagem é possível classificar as notações e seu nível de complexidade.
