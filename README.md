@@ -58,17 +58,17 @@ Nesta outra forma em que o código foi feito, o início permanece o mesmo. A mud
 
 NOTAÇÃO BigO’
 
-A notação destes algoritmos é O(n log n) já que o tempo de execução cresce conforme a entrada de dados vão aumentando.
+A notação destes algoritmos é O(n²) já que o tempo de execução cresce conforme a entrada de dados vão aumentando.
 A atividade mais significativa do código é a função sorted e conforme a entrada de dados for maior ela "trabalhará" mais, já que tem que ordenar mais elementos.
-São 4 entradas de 4 elementos cada, logo, 4*4=16, a notação será O(16log16).
-16log16 = 16 * 4 = 64.
-Resultado final da notação O(64).
+São 4 entradas de 4 elementos cada, logo, 4*4=16, a notação será O(16²).
+16² = 16 * 16 = 64.
+Resultado final da notação O(256).
 
 Ferramenta utilizada para a pesquisa sobre a notação:
 
 https://www.freecodecamp.org/portuguese/news/o-que-e-a-notacao-big-o-complexidade-de-tempo-e-de-espaco/
 
-Neste artigo, nas primeiras colocações é exibido um exemplo onde o mesmo também utiliza o método sort, porém, diferente do nosso projeto, no codepen foi utilizado uma quantidade fixa de elementos (de 1 a 8) assim tornando a notação O(n²).
+Neste artigo, nas primeiras colocações é exibido um exemplo onde o mesmo também utiliza o método sort.
 
 Neste artigo também é classificado cada notação, segue uma interesante imagem tirada do mesmo.
 
