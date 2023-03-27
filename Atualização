@@ -8,4 +8,8 @@ Elementos = [[0,1,2,3],
 
 E = sorted(Elementos[0] + Elementos[1] + Elementos[2] + Elementos[3])
 
-print(E)
+print(f'Ordem Crescente: {E}')
+
+E.reverse()
+
+print(f'Ordem Decrescente: {E}')
