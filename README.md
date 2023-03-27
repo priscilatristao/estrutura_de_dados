@@ -36,7 +36,7 @@ O código começa com uma variável que recebe uma matriz. Dentro há 4(quatro) 
 ![image](https://user-images.githubusercontent.com/125207561/228072963-85cc22d0-555f-4b97-aca0-d5f52805a792.png)
 
 
-Em seguida, 4(quatro) variáveis são criadas, cada uma recebendo um índice diferente disposto na matriz elementos, representando as listas dentro dela. Depois é criado uma nova variável que recebe a soma das variáveis anteriores, utilizando a função sorted para organizar todos os elementos em ordem crescente. E assim, é dado o print da nova variável, como mostra a imagem abaixo.
+Em seguida, 4(quatro) variáveis são criadas, cada uma recebendo um índice diferente disposto na matriz elementos, representando as listas dentro dela. Depois é criado uma nova variável que recebe a junção das variáveis anteriores, utilizando a função sorted para organizar todos os elementos em ordem crescente. E assim, é dado o print da nova variável, como mostra a imagem abaixo.
 
 ![image](https://user-images.githubusercontent.com/125207561/228073004-ed508dd8-df82-43aa-8b26-2d291937d5db.png)
 
@@ -49,7 +49,7 @@ E para criar a ordem decrescente,  a mesma variável foi reutilizada porém agor
 
 
  - 2ª Forma:
-Nesta outra forma em que o código foi feito, o início permanece o mesmo. A mudança, no entanto, começa após a matriz, onde ao invés de criar 4(quatro) variáveis para receber uma lista cada, é apenas criada 1(uma) variável que recebe a somatória dos índices da matriz utilizando a função sorted para colocar em ordem crescente. Finalizando com um print da variável. E para inverte a ordem foi feito o mesmo processo que o código anterior.
+Nesta outra forma em que o código foi feito, o início permanece o mesmo. A mudança, no entanto, começa após a matriz, onde ao invés de criar 4(quatro) variáveis para receber uma lista cada, é apenas criada 1(uma) variável que recebe a junção dos índices da matriz utilizando a função sorted para colocar em ordem crescente. Finalizando com um print da variável. E para inverte a ordem foi feito o mesmo processo que o código anterior.
 
 ![image](https://user-images.githubusercontent.com/125207561/228073103-205fde32-a28a-4ba5-8f7e-731ae481e5ef.png)
 
