@@ -18,6 +18,12 @@ e2 = elementos[1]
 e3 = elementos[2]
 e4 = elementos[3]
 
-print(sorted(e1 + e2 + e3 + e4))
+e = sorted(e1 + e2 + e3 + e4)
+
+print(f'Ordem Crescente: {e}')
+
+e.reverse()
+
+print(f'Ordem Decrescente: {e}')
 
 
